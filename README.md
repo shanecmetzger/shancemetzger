@@ -6,3 +6,5 @@ I'm Shane, business intelligence and analytics engineer - really, just whatever 
 * ELT pipelining, data warehousing
 * Quality assurance
 * Data integrity and management
+
+## Projects
